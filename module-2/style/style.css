@@ -29,7 +29,6 @@ section{
   background-color: #999999;
   border: 2px solid black;
   padding: 0px 5px 0px 5px;
-  margin: 2px;
 }
 
 section > h3{
@@ -52,7 +51,7 @@ p{
 @media (min-width: 992px) {
 
 .col-lg-4{
-  width: 33%;
+  width: 33.33%;
   float:left;
 }
 
@@ -66,7 +65,7 @@ p{
     float: left;    
   }
   .col-md-4 {
-    width: 33%;
+    width: 33.33%;
   }
   .col-md-6 {
     width: 50%;
@@ -82,3 +81,4 @@ p{
   }
 }
 
+ 
